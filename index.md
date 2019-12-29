@@ -232,7 +232,7 @@ use-site-title: true
 </table>
 
 There are too many choices, how do I choose?
-1. Avoid using devices where the device manufacturer knows your private key. Such as Keyois Capsule, Cold Storage Coins, and Ballet Crypto. In some cases it's possible to have Bitkee create a BIP38 encrypted backup which is safe.
+1. Avoid using devices where the device manufacturer knows your private key. Such as Keyois Capsule, Cold Storage Coins, and Ballet Crypto. In some cases it's possible to have a manufacturer create a BIP38 encrypted backup, which is safe.
 2. Simpler is better - more pieces means more potential points of failure.
 3. The best bang for your buck are Blockplate, Crypto Keys, or Steelwallet
 4. The most durable device I've tested is the Quadrat Register
