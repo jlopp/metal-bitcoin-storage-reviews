@@ -5,9 +5,13 @@ subtitle: Stress tests and reviews of seed storage devices.
 use-site-title: true
 ---
 
-Why Perform Stress Tests?
+<table border="0" style="text-align:center; font-size:20px">
+  <tr>
+    <td><a href="why">Why Perform Stress Tests?</a></td>
+    <td><a href="how">Stress Test Methodology</a></td>
+  </tr>
+</table>
 
-Stress Test Methodology
 <table class="compatibility">
   <tr>
     <th>Device</th>
