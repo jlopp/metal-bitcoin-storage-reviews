@@ -139,7 +139,7 @@ use-site-title: true
     <td>A</td>
   </tr>
   <tr>
-    <td><a href="reviews/cryptosteel/">CryptoSteel</a></td>
+    <td><a href="reviews/cryptosteel-cassette/">CryptoSteel Cassette</a></td>
     <td>B</td>
     <td>B</td>
     <td>A</td>
@@ -216,7 +216,7 @@ use-site-title: true
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="reviews/ellipal-metal-wallet/">Ellipal Metal Wallet</a></td>
+    <td><a href="reviews/ellipal-mnemonic-metal/">Ellipal Mnemonic Metal</a></td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
