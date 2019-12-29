@@ -10,15 +10,15 @@ Ellipal Mnemonic Metal can be purchased at <a href="https://www.ellipal.com/coll
 
 This is the first metal device I've seen with a hinge that flips open like a briefcase. I'm not a fan of the tiny screws. I also found the tiles frustrating because they take some force to pop out of the sheet and I had several fly across the room.
 
-<img src="../../img/devices/ellipal_new.jpeg" />
+<img src="../../img/devices/ellipal_metal_new.jpeg" />
 
 ## Heat Stress Test
 
 Seemed to be doing fine but then suddenly turned to slag after 6 minutes.
 
-<img src="../../img/devices/ellipal_hot.jpeg" />
+<img src="../../img/devices/ellipal_metal_hot.jpeg" />
 <br/>
-<img src="../../img/devices/ellipal_heat.jpeg" />
+<img src="../../img/devices/ellipal_metal_heat.jpeg" />
 
 ## Corrosion Stress Test
 
