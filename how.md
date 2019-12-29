@@ -27,3 +27,7 @@ The device is submerged in a bucket of 16% muriatic acid and left for 12 hours o
 A 20 ton hydraulic press is used to deform the device, after which the data is checked for readability. In some cases the device may need to be pried open or deformed further in order to access the data. Do you need to worry about this level of pressure? Probably not unless you’re keeping the device at the bottom of the Mariana Trench or in a structure that could collapse on top of it like a mine or a large building.
 
 <img src="img/crush_test.jpeg" />
+
+## Grading System
+
+These aren't highly scientific experiments and my grading system is arbitrary - my goal is to get a sense of which devices are the most robust relative to the rest of the market. If I'm unable to cause any data loss then a device should get an "A" rating, while a device that is quite easy to destroy gets an "F" - anything in between is a grey area.
