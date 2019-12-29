@@ -32,4 +32,4 @@ Another catastrophic failure for rail-based devices.
 
 <img src="../../img/devices/steely_crush1.jpeg" />
 <br/>
-<img src="../../img/devices/steely_crush1.jpeg" />
+<img src="../../img/devices/steely_crush2.jpeg" />

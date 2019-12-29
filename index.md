@@ -10,7 +10,7 @@ use-site-title: true
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="how">Stress Test Methodology</a>
 </div>
-
+<br/>
 <table class="compatibility">
   <tr>
     <th>Device</th>

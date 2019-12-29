@@ -22,7 +22,7 @@ Performed admirably — dots were easy to read, no data loss.
 
 No data loss.
 
-<img src="../../img/devices/blockpalte_acid.jpeg" />
+<img src="../../img/devices/blockplate_acid.jpeg" />
 
 ## Crush Stress Test
 
