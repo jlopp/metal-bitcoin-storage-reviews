@@ -27,203 +27,203 @@ use-site-title: true
     <td>A</td>
   </tr>
   <tr>
-    <td>Blockplate 1.0</td>
+    <td><a href="reviews/blockplate">Blockplate</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Coldbit Steel</td>
+    <td><a href="reviews/coldbit-steel">Coldbit Steel</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Crypto Key Stack</td>
+    <td><a href="reviews/crypto-key-stack">Crypto Key Stack</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Crypto Keys</td>
+    <td><a href="reviews/crypto-keys">Crypto Keys</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>CryptoTag</td>
+    <td><a href="reviews/cryptotag">CryptoTag</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Hodlinox</td>
+    <td><a href="reviews/hodlinox">Hodlinox</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Quadrat Register</td>
+    <td><a href="reviews/quadrat-register">Quadrat Register</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Safe Seed</td>
+    <td><a href="reviews/safe-seed">Safe Seed</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>SeedSteel</td>
+    <td><a href="reviews/seedsteel">SeedSteel</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Simbit</td>
+    <td><a href="reviews/simbit">Simbit</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Steelwallet</td>
+    <td><a href="reviews/steelwallet">Steelwallet</a></td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Coldbit Passphrase</td>
+    <td><a href="reviews/coldbit-passphrase">Coldbit Passphrase</a></td>
     <td>A-</td>
     <td>A</td>
     <td>B</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Cryptosteel Capsule</td>
+    <td><a href="reviews/cryptosteel-capsule">Cryptosteel Capsule</a></td>
     <td>A-</td>
     <td>A</td>
     <td>A</td>
     <td>B</td>
   </tr>
   <tr>
-    <td>CryptoVault</td>
+    <td><a href="reviews/cryptovault">CryptoVault</a></td>
     <td>A-</td>
     <td>A</td>
     <td>B</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Keyois Capsule</td>
+    <td><a href="reviews/keyois-capsule">Keyois Capsule</a></td>
     <td>A-</td>
     <td>B</td>
     <td>A</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Cypherwheel</td>
+    <td><a href="reviews/cypherwheel">Cypherwheel</a></td>
     <td>B+</td>
     <td>A</td>
     <td>C</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>CryptoSteel</td>
+    <td><a href="reviews/cryptosteel">CryptoSteel</a></td>
     <td>B</td>
     <td>B</td>
     <td>A</td>
     <td>D</td>
   </tr>
   <tr>
-    <td>Billfodl</td>
+    <td><a href="reviews/billfodl">Billfodl</a></td>
     <td>C</td>
     <td>C</td>
     <td>A</td>
     <td>D</td>
   </tr>
   <tr>
-    <td>Cobo Tablet</td>
+    <td><a href="reviews/cobo-tablet">Cobo Tablet</a></td>
     <td>C</td>
     <td>F</td>
     <td>A</td>
     <td>D</td>
   </tr>
   <tr>
-    <td>Cold Storage Coins</td>
+    <td><a href="reviews/cold-storage-coins">Cold Storage Coins</a></td>
     <td>C</td>
     <td>F</td>
     <td>B</td>
     <td>B</td>
   </tr>
   <tr>
-    <td>ColdTI</td>
+    <td><a href="reviews/coldti">ColdTI</a></td>
     <td>C</td>
     <td>D</td>
     <td>C</td>
     <td>A</td>
   </tr>
   <tr>
-    <td>Blockstream Metal</td>
+    <td><a href="reviews/blockstream-metal">Blockstream Metal</a></td>
     <td>D</td>
     <td>A</td>
     <td>F</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>The HODL Wallet</td>
+    <td><a href="reviews/hodl-wallet">The HODL Wallet</a></td>
     <td>D</td>
     <td>A</td>
     <td>F</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>The Steely</td>
+    <td><a href="reviews/steely">The Steely</a></td>
     <td>D</td>
     <td>F</td>
     <td>A</td>
     <td>F</td>
   </tr>
   <tr>
-    <td>Ballet Crypto</td>
+    <td><a href="reviews/ballet-crypto">Ballet Crypto</a></td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
   </tr>
   <tr>
-    <td>BitHD Frozen Armor</td>
+    <td><a href="reviews/bithd-frozen-armor">BitHD Frozen Armor</a></td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>Bunkeroid</td>
+    <td><a href="reviews/bunkeroid">Bunkeroid</a></td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>Ellipal Metal Wallet</td>
+    <td><a href="reviews/ellipal-metal-wallet">Ellipal Metal Wallet</a></td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>Steeldisk</td>
+    <td><a href="reviews/steeldisk">Steeldisk</a></td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
