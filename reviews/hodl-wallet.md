@@ -4,7 +4,7 @@ title: The HODL Wallet Review
 permalink: /reviews/hodl-wallet/
 nowrap: true
 ---
-The HODL Wallet can be purchased at <a href="https://thehodlwallet.com/">thehodlwallet.com</a>. Looks to be a clone of the Billfodl / CryptoSteel. Claims "made from AISI 316 stainless steel, the HODL wallet is fireproof, waterproof, shockproof, corrosion resistant, and astonishingly strong."
+The HODL Wallet is no longer available at thehodlwallet.com. Looks to be a clone of the Billfodl / CryptoSteel. Claims "made from AISI 316 stainless steel, the HODL wallet is fireproof, waterproof, shockproof, corrosion resistant, and astonishingly strong."
 
 ## Setup
 
