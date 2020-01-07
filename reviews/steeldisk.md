@@ -4,7 +4,7 @@ title: Steeldisk Review
 permalink: /reviews/steeldisk/
 nowrap: true
 ---
-Steeldisk can be purchased at <a href="https://steeldisk.com/">steeldisk.com</a>. Another tile-based design that is not a direct CryptoSteel clone. Claims to be 304 stainless steel that is fireproof to 2100°F / 1200°C.
+Steeldisk is no longer available at steeldisk.com. Another tile-based design that is not a direct CryptoSteel clone. Claims to be 304 stainless steel that is fireproof to 2100°F / 1200°C.
 
 ## Setup
 
