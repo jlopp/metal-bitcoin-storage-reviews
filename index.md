@@ -138,7 +138,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">B</td>
     <td style="text-align:center">A</td>
-    <td style="text-align:center">$35</td>
+    <td>$35</td>
   </tr>
   <tr>
     <td><a href="reviews/keyois-capsule/">Keyois Capsule</a></td>
