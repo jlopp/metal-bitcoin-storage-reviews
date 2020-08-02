@@ -53,6 +53,14 @@ use-site-title: true
     <td>$45</td>
   </tr>
   <tr>
+    <td><a href="reviews/cryptoetch/">Cryptoetch</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$40</td>
+  </tr>
+  <tr>
     <td><a href="reviews/crypto-keys/">Crypto Keys</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -74,7 +82,15 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$30</td>
+    <td>€49</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/hodlinox-single/">Hodlinox Single Plate</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€29</td>
   </tr>
   <tr>
     <td><a href="reviews/quadrat-register/">Quadrat Register</a></td>
@@ -101,6 +117,14 @@ use-site-title: true
     <td>N/A</td>
   </tr>
   <tr>
+    <td><a href="reviews/seedplate/">Seedplate</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$40/td>
+  </tr>
+  <tr>
     <td><a href="reviews/simbit/">Simbit</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -115,6 +139,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$55</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cc3p/">Tjernlund CC3P</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$40</td>
   </tr>
   <tr>
     <td><a href="reviews/coldbit-passphrase/">Coldbit Passphrase</a></td>
@@ -149,11 +181,27 @@ use-site-title: true
     <td>$99</td>
   </tr>
   <tr>
-    <td><a href="reviews/cypherwheel/">Cypherwheel</a></td>
+    <td><a href="reviews/safu-ninja/">SAFU Ninja</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td>$15</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/steelki/">SteelKi</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$15</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cypherwheel-2/">Cypherwheel</a></td>
     <td style="text-align:center">B+</td>
     <td style="text-align:center">A</td>
-    <td style="text-align:center">C</td>
     <td style="text-align:center">A</td>
+    <td style="text-align:center">C</td>
     <td>$200</td>
   </tr>
   <tr>
