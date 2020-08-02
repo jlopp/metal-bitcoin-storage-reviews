@@ -82,7 +82,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$260</td>
+    <td>€365</td>
   </tr>
   <tr>
     <td><a href="reviews/safe-seed/">Safe Seed</a></td>
