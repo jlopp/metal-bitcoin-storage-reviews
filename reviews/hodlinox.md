@@ -4,7 +4,13 @@ title: Hodlinox Review
 permalink: /reviews/hodlinox/
 nowrap: true
 ---
-Hodlinox can be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. Claims to be fire proof, water proof, corrosion resistant and unaffected by various acids: this 316 stainless steel plate is virtually indestructible.
+Hodlinox can be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. Claims to be:
+<ul>
+	<li>Waterproof</li>
+	<li>Fireproof</li>
+	<li>Corrosion Resistant</li>
+	<li>Unaffected by various acids</li>
+</ul>
 
 ## Setup
 
