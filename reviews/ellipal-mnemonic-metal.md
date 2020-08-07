@@ -4,7 +4,7 @@ title: Ellipal Mnemonic Metal Review
 permalink: /reviews/ellipal-mnemonic-metal/
 nowrap: true
 ---
-Ellipal Mnemonic Metal can be purchased at <a href="https://www.ellipal.com/collections/miscellaneous/products/ellipal-mnemonic-metal-best-backup-for-your-hardware-wallet">ellipal.com</a>. Claims to be IP65 rated meaning it is dust proof and water jet proof. Also claims to be fire proof, water proof, and insect proof.
+Ellipal Mnemonic Metal can be purchased at <a href="https://www.ellipal.com/products/mnemonic-metal">ellipal.com</a>. Claims to be IP65 rated meaning it is dust proof and water jet proof. Also claims to be fire proof, water proof, and insect proof.
 
 ## Setup
 
