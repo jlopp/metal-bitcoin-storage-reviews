@@ -4,7 +4,7 @@ title: The Steely Review
 permalink: /reviews/steely/
 nowrap: true
 ---
-The Steely can be purchased at <a href="https://thesteely.com/collections/steely-cold-storage-kits/products/steely-cryptocurrency-cold-storage">thesteely.com</a>. Claims to be constructed from 304 Stainless Steel, fireproof up to 1200ºC / 2200ºF, waterproof. corrosion resistant, and rustproof.
+The Steely is no longer available at thesteely.com. Claims to be constructed from 304 Stainless Steel, fireproof up to 1200ºC / 2200ºF, waterproof. corrosion resistant, and rustproof.
 
 ## Setup
 
