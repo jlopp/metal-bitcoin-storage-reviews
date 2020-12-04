@@ -27,7 +27,7 @@ I'll also note that by the time I had a single side etched, it completely draine
 
 ## Heat Stress Test
 
-No visible damage, however the covers are stuck and don't rotate, making it impossible to read the seed. Cyphersafe told me ahead of time that if I encountered problems with the cover, it would be fairly easy to pry it off. I'm going to wait until after the other tests are completed to do that, as I have no reason to believe that the seed phrase has been compromised. When shaking the device I couldn't hear any tiles rattling around, so I don't think they came loose.
+Plenty of discoloration, but no data loss - we can see that the words are etched quite deeply.
 
 <img src="../../img/devices/cryptoetch_heat.jpeg" />
 
