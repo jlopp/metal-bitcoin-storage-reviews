@@ -33,7 +33,7 @@ What if a fire / earthquake / tornado / other disaster results in your backup be
 <img src="img/hardness_scale.jpeg" />
 
 ## Loss Via Physical Attack
-You'’'ll want to physically secure against someone finding your seed phrase. If your phrase is an unencrypted seed for a single signature wallet, then an attacker finding it is a catastrophic loss scenario. You can mitigate this attack by either securing your data with an additional passphrase as described in <a href="https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki">BIP38</a> or <a href="https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki">BIP39</a>.
+You’ll want to physically secure against someone finding your seed phrase. If your phrase is an unencrypted seed for a single signature wallet, then an attacker finding it is a catastrophic loss scenario. You can mitigate this attack by either securing your data with an additional passphrase as described in <a href="https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki">BIP38</a> or <a href="https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki">BIP39</a>.
 
 ## Other Loss Vectors
 Storing a single private key is not as safe as storing a 12 or 24 word HD seed. This is due to a potential loss scenario if you don’t sweep the entire wallet and much of the value goes to a change address for which you don’t save the private key. You can read more about this loss vector at "<a href="https://steemit.com/bitcoin/@michaelmatthews/warning-how-i-lost-bitcoins-using-a-paper-wallet">How I Lost Bitcoins Using a Paper Wallet</a>."

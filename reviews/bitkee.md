@@ -4,7 +4,7 @@ title: Bitkee Review
 permalink: /reviews/bitkee/
 nowrap: true
 ---
-Bitkee can be purchased at <a href="https://bitkee.com/">bitkee.com</a>. It claims to have a ~3,000°F melting point and be corrosion resistant. Composed of grade 2 Titanium, ASTM B265, Rockwell B 65, 40K psi. "A bitkee is durable, fireproof, waterproof, corrosion resistant, and invulnerable to software and hardware crashes."
+Bitkee is no longer available at bitkee.com. It claims to have a ~3,000°F melting point and be corrosion resistant. Composed of grade 2 Titanium, ASTM B265, Rockwell B 65, 40K psi. "A bitkee is durable, fireproof, waterproof, corrosion resistant, and invulnerable to software and hardware crashes."
 
 
 ## Setup
