@@ -4,7 +4,7 @@ title: Cobo Tablet Review
 permalink: /reviews/cobo-tablet/
 nowrap: true
 ---
-Cobo Tablet can be purchased at <a href="https://shop.cobo.com/products/cobo-tablet">cobo.com</a>. Crafted from 304-grade stainless steel, the Cobo Tablet has a fireproof threshold ranging from 1399 to 1455 ℃ / 2550 to 2651 °F.
+Cobo Tablet is no longer avaialble from cobo.com. Crafted from 304-grade stainless steel, the Cobo Tablet has a fireproof threshold ranging from 1399 to 1455 ℃ / 2550 to 2651 °F.
 
 ## Setup
 
