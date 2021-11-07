@@ -29,6 +29,22 @@ use-site-title: true
     <td>$40</td>
   </tr>
   <tr>
+    <td><a href="reviews/bitplate/">Bitplate Domino</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>£44.50</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/bitplate-grande/">Bitplate Domino Grande</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>£50.50</td>
+  </tr>
+  <tr>
     <td><a href="reviews/blockplate/">Blockplate</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -37,12 +53,28 @@ use-site-title: true
     <td>$69</td>
   </tr>
   <tr>
+    <td><a href="reviews/diy-bulletproof/">Bulletproof Bitcoin (DIY)</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>~$50</td>
+  </tr>
+  <tr>
     <td><a href="reviews/coldbit-steel/">Coldbit Steel</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$80</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/codlkeys/">Codlkeys S</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>?</td>
   </tr>
   <tr>
     <td><a href="reviews/crypto-key-stack/">Crypto Key Stack</a></td>
@@ -82,7 +114,15 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€49</td>
+    <td>€34</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/hodlinox-2/">Hodlinox 2</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€39</td>
   </tr>
   <tr>
     <td><a href="reviews/hodlinox-single/">Hodlinox Single Plate</a></td>
@@ -90,7 +130,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€29</td>
+    <td>€13</td>
   </tr>
   <tr>
     <td><a href="reviews/quadrat-register/">Quadrat Register</a></td>
@@ -99,6 +139,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>€365</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/quadrat-register-11/">Quadrat Register 11</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€149</td>
   </tr>
   <tr>
     <td><a href="reviews/safe-seed/">Safe Seed</a></td>
@@ -133,6 +181,22 @@ use-site-title: true
     <td>$110</td>
   </tr>
   <tr>
+    <td><a href="reviews/smallseed/">Smallseed</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>38 CHF</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/diy-steelwallet/">Steel Wallet (DIY)</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>~$20</td>
+  </tr>
+  <tr>
     <td><a href="reviews/steelwallet/">Steelwallet</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -147,6 +211,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$40</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/black-seed-ink/">Black Seed Ink</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$35</td>
   </tr>
   <tr>
     <td><a href="reviews/coldbit-passphrase/">Coldbit Passphrase</a></td>
@@ -173,6 +245,14 @@ use-site-title: true
     <td>$35</td>
   </tr>
   <tr>
+    <td><a href="reviews/hodlr-swiss/">Hodlr Swiss</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td>€119</td>
+  </tr>
+  <tr>
     <td><a href="reviews/keyois-capsule/">Keyois Capsule</a></td>
     <td style="text-align:center">A-</td>
     <td style="text-align:center">B</td>
@@ -181,7 +261,7 @@ use-site-title: true
     <td>$99</td>
   </tr>
   <tr>
-    <td><a href="reviews/safu-ninja/">SAFU Ninja</a></td>
+    <td><a href="reviews/safu-ninja/">SAFU Ninja (DIY)</a></td>
     <td style="text-align:center">A-</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -211,6 +291,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">D</td>
     <td>$90</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/keystone-tablet-punch/">Keystone Tablet Punch</a></td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">D</td>
+    <td style="text-align:center">A</td>
+    <td>$24</td>
   </tr>
   <tr>
     <td><a href="reviews/billfodl/">Billfodl</a></td>
@@ -243,6 +331,14 @@ use-site-title: true
     <td style="text-align:center">C</td>
     <td style="text-align:center">A</td>
     <td>$21</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/keystone-tablet-plus/">Keystone Tablet Plus</a></td>
+    <td style="text-align:center">C</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$49</td>
   </tr>
   <tr>
     <td><a href="reviews/blockstream-metal/">Blockstream Metal</a></td>
