@@ -4,7 +4,7 @@ title: Hodlrock Rock96 Review
 permalink: /reviews/hodlrock/
 nowrap: true
 ---
-Hodlrock Rock96 can be purchased at <a href="https://hodlrock.com/">hodlrock.com/</a>. Claims to be:
+Hodlrock Rock96 can be purchased at <a href="https://hodlrock.com/">hodlrock.com</a>. Claims to be:
 <ul>
 	<li>Fire Resistant - rock96 is rated to sustain exposure at 1093°C</li>
 	<li>Load & Stress Resistant - 200 KN of load without observing relevant damages</li>
