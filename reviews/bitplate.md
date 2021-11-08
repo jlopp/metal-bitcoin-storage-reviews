@@ -8,7 +8,7 @@ Bitplate Domino can be purchased at <a href="https://www.bitplates.com/">bitplat
 
 ## Setup
 
-I find center punch style storage to be far easier to set up than letter stamping or engraving. The domino is novel in that it's more compact than other plates that use one square per letter. It's pretty easy to encode 2 letters per square via a "1 dot" and "2 dots" system. Since I just coded the plate with "HODL HODL HODL..." I ended up having 3 dots in every square I used. The domino also supports using other letter templates but I consider it somewhat dangerous to do so - you'd need to store your template securely as well and make sure you don't lose it.
+I find center punch style storage to be far easier to set up than letter stamping or engraving. The domino is novel in that it's more compact than other plates that use one square per letter. It's pretty easy to encode 2 letters per square via a "1 dot" and "2 dots" system. Since I just coded the plate with "HODL HODL HODL..." I ended up having 3 dots in every square I used.
 
 <img src="../../img/devices/bitplate_new.jpeg" />
 

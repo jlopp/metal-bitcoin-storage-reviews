@@ -45,6 +45,14 @@ use-site-title: true
     <td>£50.50</td>
   </tr>
   <tr>
+    <td><a href="reviews/black-seed-ink/">Black Seed Ink</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$35</td>
+  </tr>
+  <tr>
     <td><a href="reviews/blockplate/">Blockplate</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -74,7 +82,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>?</td>
+    <td>$20</td>
   </tr>
   <tr>
     <td><a href="reviews/crypto-key-stack/">Crypto Key Stack</a></td>
@@ -131,6 +139,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>€13</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/hodlrock/">Hodlrock Rock96</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€65</td>
   </tr>
   <tr>
     <td><a href="reviews/quadrat-register/">Quadrat Register</a></td>
@@ -211,14 +227,6 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$40</td>
-  </tr>
-  <tr>
-    <td><a href="reviews/black-seed-ink/">Black Seed Ink</a></td>
-    <td style="text-align:center">A-</td>
-    <td style="text-align:center">A</td>
-    <td style="text-align:center">B</td>
-    <td style="text-align:center">A</td>
-    <td>$35</td>
   </tr>
   <tr>
     <td><a href="reviews/coldbit-passphrase/">Coldbit Passphrase</a></td>
@@ -409,7 +417,7 @@ use-site-title: true
 There are too many choices, how do I choose?
 1. Avoid using devices where the device manufacturer knows your private key. Such as Keyois Capsule, Cold Storage Coins, and Ballet Crypto. In some cases it's possible to have a manufacturer create a BIP38 encrypted backup, which is safe.
 2. Simpler is better - more pieces means more potential points of failure.
-3. The best bang for your buck are Blockplate, Crypto Keys, or Steelwallet
+3. The best bang for your buck are the single plates with grids for center punched dots such as Bitplates, Blockplate, CodlKeys, Crypto Keys, Smallseed, or Steelwallet
 4. The most durable device I've tested is the Quadrat Register
 
 Are you a device manufacturer who would like me to test your product? <a href="https://www.lopp.net/contact.php">Send me a message</a>!
