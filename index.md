@@ -46,7 +46,7 @@ use-site-title: true
   </tr>
   <tr>
     <td><a href="reviews/black-seed-ink/">Black Seed Ink</a></td>
-    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
