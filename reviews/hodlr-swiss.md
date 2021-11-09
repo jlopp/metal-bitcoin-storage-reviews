@@ -36,4 +36,6 @@ No data loss.
 
 My hydraulic press was unable to visibly deform the HODLR Swiss. Unfortunately, my crush test managed to completely lock up this device. It's no longer possible for me to rotate the disks in order to unscrew the outer ring. I'm 100% confident that the data inside is still intact, but I don't have the tools necessary to access it.
 
+Having a shell to visually prevent anyone to directly see or take photos of the seed is an intentional design decision by Hodlr Swiss. The fact the shell gets locked during destructive events works in the same way. It puts an additional security layer in extreme cases that may require a long period of time before the owner gets the Hodlr back. For example, a house collapse may take weeks to get cleared.
+
 <img src="../../img/devices/hodlr_swiss_crush.jpeg" />
