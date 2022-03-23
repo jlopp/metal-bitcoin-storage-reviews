@@ -9,7 +9,8 @@ use-site-title: true
     <a href="why">Why Perform Stress Tests?</a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="how">Stress Test Methodology</a>
-</div>
+    <br/>
+    You may also find this <a href="https://docs.google.com/spreadsheets/d/1poBdHCVrd5eErAWySjSBoKh2f_6VCHsy3ForvL8JCRE/edit#gid=197446072">sortable spreadsheet</a> useful.</div>
 <br/>
 <table class="compatibility">
   <tr>
