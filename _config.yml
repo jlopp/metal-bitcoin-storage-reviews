@@ -181,6 +181,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+      image: /img/heat_test.jpeg #meta image for social media / embeds
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
