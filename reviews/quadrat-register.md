@@ -4,7 +4,7 @@ title: Quadrat Register Review
 permalink: /reviews/quadrat-register/
 nowrap: true
 ---
-Quadrat Register can be purchased at <a href="https://q-reg.de/">q-reg.de</a>. Made of stainless 304 grade german steel; as far as claims I only see the web site state that it's secure against x-ray spying.
+Quadrat Register P + Protective Tube P can be purchased at <a href="https://qreg.tech/">q-reg.tech</a>. Made of stainless 304 grade german steel; as far as claims I only see the web site state that it's secure against x-ray spying.
 
 ## Setup
 
