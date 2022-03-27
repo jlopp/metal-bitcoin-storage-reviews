@@ -51,7 +51,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$35</td>
+    <td>$27</td>
   </tr>
   <tr>
     <td><a href="reviews/blockplate/">Blockplate</a></td>
@@ -59,7 +59,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$69</td>
+    <td>$79</td>
   </tr>
   <tr>
     <td><a href="reviews/diy-bulletproof/">Bulletproof Bitcoin (DIY)</a></td>
@@ -75,7 +75,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$80</td>
+    <td>€82</td>
   </tr>
   <tr>
     <td><a href="reviews/codlkeys/">Codlkeys S</a></td>
@@ -83,7 +83,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$20</td>
+    <td>$30</td>
   </tr>
   <tr>
     <td><a href="reviews/crypto-key-stack/">Crypto Key Stack</a></td>
@@ -99,7 +99,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$40</td>
+    <td>50 CHF</td>
   </tr>
   <tr>
     <td><a href="reviews/crypto-keys/">Crypto Keys</a></td>
@@ -107,15 +107,15 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$28</td>
+    <td>$30</td>
   </tr>
   <tr>
-    <td><a href="reviews/cryptotag/">CryptoTag</a></td>
+    <td><a href="reviews/cryptotag/">CryptoTag Thor</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$65</td>
+    <td>$350</td>
   </tr>
   <tr>
     <td><a href="reviews/hodlinox/">Hodlinox</a></td>
@@ -123,15 +123,15 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€34</td>
+    <td>€30</td>
   </tr>
   <tr>
-    <td><a href="reviews/hodlinox-2/">Hodlinox 2</a></td>
+    <td><a href="reviews/hodlinox-2/">Hodlinox Interlocking</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€39</td>
+    <td>€34</td>
   </tr>
   <tr>
     <td><a href="reviews/hodlinox-single/">Hodlinox Single Plate</a></td>
@@ -147,15 +147,15 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€65</td>
+    <td>$74</td>
   </tr>
   <tr>
-    <td><a href="reviews/quadrat-register/">Quadrat Register</a></td>
+    <td><a href="reviews/quadrat-register/">Quadrat Register P</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€365</td>
+    <td>€366</td>
   </tr>
   <tr>
     <td><a href="reviews/quadrat-register-11/">Quadrat Register 11</a></td>
@@ -171,7 +171,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$20</td>
+    <td>$28</td>
   </tr>
   <tr>
     <td><a href="reviews/seedsteel/">SeedSteel</a></td>
@@ -187,7 +187,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$40</td>
+    <td>$50</td>
   </tr>
   <tr>
     <td><a href="reviews/simbit/">Simbit</a></td>
@@ -203,7 +203,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>38 CHF</td>
+    <td>48 CHF</td>
   </tr>
   <tr>
     <td><a href="reviews/diy-steelwallet/">Steel Wallet (DIY)</a></td>
@@ -219,7 +219,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$55</td>
+    <td>€65</td>
   </tr>
   <tr>
     <td><a href="reviews/tjernlund-cc3p/">Tjernlund CC3P</a></td>
@@ -243,7 +243,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">B</td>
-    <td>$80</td>
+    <td>$109</td>
   </tr>
   <tr>
     <td><a href="reviews/cryptovault/">CryptoVault</a></td>
@@ -283,7 +283,7 @@ use-site-title: true
     <td style="text-align:center">B</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$15</td>
+    <td>$24</td>
   </tr>
   <tr>
     <td><a href="reviews/cypherwheel-2/">Cypherwheel</a></td>
@@ -291,7 +291,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">C</td>
-    <td>$200</td>
+    <td>$250</td>
   </tr>
   <tr>
     <td><a href="reviews/cryptosteel-cassette/">CryptoSteel Cassette</a></td>
@@ -420,5 +420,7 @@ There are too many choices, how do I choose?
 2. Simpler is better - more pieces means more potential points of failure.
 3. The best bang for your buck are the single plates with grids for center punched dots such as Bitplates, Blockplate, CodlKeys, Crypto Keys, Smallseed, or Steelwallet
 4. The most durable device I've tested is the Quadrat Register
+
+NOTE: this is an open source project! If you find any out-of-date information such as incorrect prices or broken links, please <a href="https://github.com/jlopp/metal-bitcoin-storage-reviews/issues/new">submit an issue</a>.
 
 Are you a device manufacturer who would like me to test your product? <a href="https://www.lopp.net/contact.php">Send me a message</a>!

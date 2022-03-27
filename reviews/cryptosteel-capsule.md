@@ -4,7 +4,7 @@ title: Cryptosteel Capsule Review
 permalink: /reviews/cryptosteel-capsule/
 nowrap: true
 ---
-The Cryptosteel Capsule can be purchased at <a href="https://cryptosteel.com/product/cryptosteel-capsule/">cryptosteel.com</a>. Claims to be extremely durable - fireproof up to 1400C/2500F. Shockproof. Waterproof. Stainless.
+The Cryptosteel Capsule can be purchased at <a href="https://cryptosteel.com/product/cryptosteel-capsule-solo/">cryptosteel.com</a>. Claims to be extremely durable - fireproof up to 1400C/2500F. Shockproof. Waterproof. Stainless.
 
 ## Setup
 
