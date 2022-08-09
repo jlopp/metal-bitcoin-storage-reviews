@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quadrate Register 11 Review
+title: Quadrat Register 11 Review
 permalink: /reviews/quadrat-register-11/
 nowrap: true
 ---
