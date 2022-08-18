@@ -10,6 +10,7 @@ use-site-title: true
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="how">Stress Test Methodology</a>
     <br/>
+    <p>Note: after testing 70 devices, I probably won't be testing many more - nearly every device these days is a similar design to some that have already been tested. If you want to have a good idea of how well an untested device will perform, read my <a href="https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/">Treatise on Bitcoin Seed Backup Device Design</a>.</p>
     You may also find this <a href="https://docs.google.com/spreadsheets/d/1poBdHCVrd5eErAWySjSBoKh2f_6VCHsy3ForvL8JCRE/edit#gid=197446072">sortable spreadsheet</a> useful.</div>
 <br/>
 <table class="compatibility">
