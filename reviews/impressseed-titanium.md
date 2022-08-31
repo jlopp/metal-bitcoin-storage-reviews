@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ImpressSeed Review
-permalink: /reviews/impressseed/
+permalink: /reviews/impressseed-titanium/
 nowrap: true
 ---
 ImpressSeed can be purchased at <a href="https://impressseed.com/">impressseed.com</a>. Claims to be:
@@ -27,7 +27,7 @@ Slight discoloration around the edges but no data loss.
 
 ## Corrosion Stress Test
 
-Like some of the other titanium devices we can observe substantial pitting of the service. A tiny amount of data loss with regard to the more lightly stamped letters. This seed phrase is certainly still recoverable.
+Like some of the other titanium devices we can observe substantial pitting of the surface. A tiny amount of data loss with regard to the more lightly stamped letters. This seed phrase is certainly still recoverable.
 
 <img src="../../img/devices/impressseed_acid.jpeg" />
 
