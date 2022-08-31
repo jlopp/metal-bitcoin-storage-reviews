@@ -23,6 +23,14 @@ use-site-title: true
     <th>Price</th>
   </tr>
   <tr>
+    <td><a href="reviews/attenuo/">Attenuo</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>£50</td>
+  </tr>
+  <tr>
     <td><a href="reviews/bitkee/">Bitkee</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -63,12 +71,60 @@ use-site-title: true
     <td>$79</td>
   </tr>
   <tr>
+    <td><a href="reviews/bravo-seed-card/">Bravo Seed Card</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€40</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/bravo-seed-coin/">Bravo Seed Coin</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€60</td>
+  </tr>
+  <tr>
     <td><a href="reviews/diy-bulletproof/">Bulletproof Bitcoin (DIY)</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>~$50</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/codlkeys/">Codlkeys S</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$30</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/coinplate-alpha/">Coinplate Alpha</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$79</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/coinplate-grid/">Coinplate Grid</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$75</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/coinplate-punch/">Coinplate Punch</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$65</td>
   </tr>
   <tr>
     <td><a href="reviews/coldbit-steel/">Coldbit Steel</a></td>
@@ -79,7 +135,15 @@ use-site-title: true
     <td>€82</td>
   </tr>
   <tr>
-    <td><a href="reviews/codlkeys/">Codlkeys S</a></td>
+    <td><a href="reviews/cryo/">CRYO</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$50</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/crypto-keys/">Crypto Keys</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -103,12 +167,28 @@ use-site-title: true
     <td>50 CHF</td>
   </tr>
   <tr>
-    <td><a href="reviews/crypto-keys/">Crypto Keys</a></td>
+    <td><a href="reviews/cryptonumeris-board-s/">CryptoNumeris Board S</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$32</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cryptonumeris-plate-s/">CryptoNumeris Plate S</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>$30</td>
+    <td>$35</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cryptotag-odin/">CryptoTag Odin</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$200</td>
   </tr>
   <tr>
     <td><a href="reviews/cryptotag/">CryptoTag Thor</a></td>
@@ -117,6 +197,22 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$350</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cryptotag-zeus/">CryptoTag Zeus</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$130</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/diyseed/">DIYSeed</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$20</td>
   </tr>
   <tr>
     <td><a href="reviews/hodlinox/">Hodlinox</a></td>
@@ -151,12 +247,12 @@ use-site-title: true
     <td>$74</td>
   </tr>
   <tr>
-    <td><a href="reviews/quadrat-register/">Quadrat Register P</a></td>
+    <td><a href="reviews/qreg-hr/">qreg-hr</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€366</td>
+    <td>€149</td>
   </tr>
   <tr>
     <td><a href="reviews/quadrat-register-11/">Quadrat Register 11</a></td>
@@ -167,12 +263,28 @@ use-site-title: true
     <td>€149</td>
   </tr>
   <tr>
+    <td><a href="reviews/quadrat-register/">Quadrat Register P</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€366</td>
+  </tr>
+  <tr>
     <td><a href="reviews/safe-seed/">Safe Seed</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$28</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/secret-seed-enigma/">Secret Seed Enigma</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$49</td>
   </tr>
   <tr>
     <td><a href="reviews/seedsteel/">SeedSteel</a></td>
@@ -223,12 +335,52 @@ use-site-title: true
     <td>€65</td>
   </tr>
   <tr>
+    <td><a href="reviews/tinyseed/">Tinyseed</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€199</td>
+  </tr>
+  <tr>
     <td><a href="reviews/tjernlund-cc3p/">Tjernlund CC3P</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$40</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/willi-recovery-seed-plate/">Willi's Recovery Seed Plate</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€27</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cipherseks-double-plate/">CipherSeks Double Plate</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$60</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cipherseks-single-plate/">CipherSeks Single Plate</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$60</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/codl-punchplate/">Codl Punchplate III</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$30</td>
   </tr>
   <tr>
     <td><a href="reviews/coldbit-passphrase/">Coldbit Passphrase</a></td>
@@ -261,6 +413,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">B</td>
     <td>€119</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/impressseed-titanium/">ImpressSeed Titanium</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$30</td>
   </tr>
   <tr>
     <td><a href="reviews/keyois-capsule/">Keyois Capsule</a></td>
@@ -351,12 +511,28 @@ use-site-title: true
     <td>$49</td>
   </tr>
   <tr>
+    <td><a href="reviews/copper-seed-safe/">Copper Seed Safe</a></td>
+    <td style="text-align:center">C-</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">C</td>
+    <td style="text-align:center">F</td>
+    <td>$14</td>
+  </tr>
+  <tr>
     <td><a href="reviews/blockstream-metal/">Blockstream Metal</a></td>
     <td style="text-align:center">D</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">F</td>
     <td style="text-align:center">-</td>
     <td>$80</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/ciphertag/">CipherTag</a></td>
+    <td style="text-align:center">D</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">F</td>
+    <td>$6</td>
   </tr>
   <tr>
     <td><a href="reviews/hodl-wallet/">The HODL Wallet</a></td>
@@ -417,11 +593,9 @@ use-site-title: true
 </table>
 
 There are too many choices, how do I choose?
-1. Avoid using devices where the device manufacturer knows your private key. Such as Keyois Capsule, Cold Storage Coins, and Ballet Crypto. In some cases it's possible to have a manufacturer create a BIP38 encrypted backup, which is safe.
+1. Avoid using devices where the device manufacturer may know your private key. Such as Keyois Capsule, Cold Storage Coins, and Ballet Crypto. In some cases it's possible to have a manufacturer create a BIP38 encrypted backup, which is safer but I wouldn't recommend it.
 2. Simpler is better - more pieces means more potential points of failure.
-3. The best bang for your buck are the single plates with grids for center punched dots such as Bitplates, Blockplate, CodlKeys, Crypto Keys, Smallseed, or Steelwallet
-4. The most durable device I've tested is the Quadrat Register
+3. The best bang for your buck are the single plates with grids for center punched dots such as Bitplates, Blockplate, CodlKeys, Smallseed, or Steelwallet.
+4. The most durable devices I've tested are the Quadrat Register variants.
 
 NOTE: this is an open source project! If you find any out-of-date information such as incorrect prices or broken links, please <a href="https://github.com/jlopp/metal-bitcoin-storage-reviews/issues/new">submit an issue</a>.
-
-Are you a device manufacturer who would like me to test your product? <a href="https://www.lopp.net/contact.php">Send me a message</a>!

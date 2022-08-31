@@ -4,7 +4,7 @@ title: Codlkeys S Review
 permalink: /reviews/codlkeys/
 nowrap: true
 ---
-The Codlkeys S will eventually be available at <a href="https://codl.co/">codl.co</a>. Their web site was not live at the time of my review, so there are no marketing materials or claims that are publicly available.
+The Codlkeys S is available at <a href="https://codl.co/">codl.co</a>. Their web site was not published yet at the time of my review, so there were no marketing materials or durability claims.
 
 ## Setup
 
