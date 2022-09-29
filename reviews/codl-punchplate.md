@@ -31,7 +31,7 @@ No issues reading the data despite some expected discoloration.
 
 ## Corrosion Stress Test
 
-While the plate survived quite well, it's exhibiting a unique phenomenon I haven't seen before. The acid is clearly enlarging the divots a bit, and due to how compactly designed the device template is, the enlarged divots are covering multiple spaces in some cases. As such, the decoding of the data is now at risk due to the ambiguity.
+The plate survived quite well.
 
 <img src="../../img/devices/codl_punchplate_acid.jpeg" />
 

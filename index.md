@@ -95,6 +95,14 @@ use-site-title: true
     <td>~$50</td>
   </tr>
   <tr>
+    <td><a href="reviews/codl-punchplate/">Codl Punchplate III</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$30</td>
+  </tr>
+  <tr>
     <td><a href="reviews/codlkeys/">Codlkeys S</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -373,14 +381,6 @@ use-site-title: true
     <td style="text-align:center">B</td>
     <td style="text-align:center">A</td>
     <td>$60</td>
-  </tr>
-  <tr>
-    <td><a href="reviews/codl-punchplate/">Codl Punchplate III</a></td>
-    <td style="text-align:center">A-</td>
-    <td style="text-align:center">A</td>
-    <td style="text-align:center">B</td>
-    <td style="text-align:center">A</td>
-    <td>$30</td>
   </tr>
   <tr>
     <td><a href="reviews/coldbit-passphrase/">Coldbit Passphrase</a></td>
