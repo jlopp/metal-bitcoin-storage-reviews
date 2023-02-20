@@ -44,7 +44,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>£44.50</td>
+    <td>£70.50</td>
   </tr>
   <tr>
     <td><a href="reviews/bitplate-grande/">Bitplate Domino Grande</a></td>
@@ -52,7 +52,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>£50.50</td>
+    <td>£80.50</td>
   </tr>
   <tr>
     <td><a href="reviews/black-seed-ink/">Black Seed Ink</a></td>
