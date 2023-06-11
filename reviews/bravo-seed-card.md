@@ -4,7 +4,7 @@ title: Bravo Seed Card Review
 permalink: /reviews/bravo-seed-card/
 nowrap: true
 ---
-Bravo Seed Card can be purchased at <a href="https://bravoseed.mandarinaservices.com/">bravoseed.mandarinaservices.com/</a>. Claims to be:
+Bravo Seed Card can no longer be purchased at bravoseed.mandarinaservices.com. Claims to be:
 <ul>
 	<li>fireproof up to 900ºC</li>
 	<li>corrosion resistant to humidity and the passage of time</li>

@@ -4,7 +4,7 @@ title: BitHD Frozen Armor Review
 permalink: /reviews/bithd-frozen-armor/
 nowrap: true
 ---
-BitHD Frozen Armor can be purchased at <a href="https://bithd.com/Frozen-Armor.html">bithd.com</a>. It claims "Indestructible Robustness" and to be fireproof:
+BitHD Frozen Armor can be purchased at <a href="https://bithd.com/">bithd.com</a>. It claims "Indestructible Robustness" and to be fireproof:
 304 stainless steel: 2624℉.
 Aviation aluminum alloy: 1220℉.
 Claims "Corrosion Resistant" - Saline-alkaline tolerant; acid & rust proof.

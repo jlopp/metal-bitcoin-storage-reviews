@@ -4,7 +4,7 @@ title: Crypto Key Stack Review
 permalink: /reviews/crypto-key-stack/
 nowrap: true
 ---
-Crypto Key Stack can be purchased at <a href="https://cryptokeystack.com/">cryptokeystack.com</a>. The black anodized stainless steel plates offer fire protection up to 2,200°F — well above the temperature of a house fire. Also claims to be waterproof and rustproof. Comes with its own engraver.
+Crypto Key Stack can no longer be purchased at cryptokeystack.com. The black anodized stainless steel plates offer fire protection up to 2,200°F — well above the temperature of a house fire. Also claims to be waterproof and rustproof. Comes with its own engraver.
 
 ## Setup
 
