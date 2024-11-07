@@ -4,7 +4,7 @@ title: Hodlinox 2 Review
 permalink: /reviews/hodlinox-2/
 nowrap: true
 ---
-Hodlinox can be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. This is the third Hodlinox product I've tested. This is basically the second iteration of the first dual-plate product I tested several years ago. The main difference is that this generation has interlocking plates on both ends. Claims to be:
+Hodlinox can no longer be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. This is the third Hodlinox product I've tested. This is basically the second iteration of the first dual-plate product I tested several years ago. The main difference is that this generation has interlocking plates on both ends. Claims to be:
 <ul>
 	<li>Material: stainless steel 316</li>
 	<li>Melting point: 1460 ℃ / 2642 ℉.</li>
