@@ -31,10 +31,10 @@ That said, once I got the device open it was in pristine condition.
 
 No data loss.
 
-<img src="../../img/devices/hodlinox_acid.jpeg" />
+<img src="../../img/devices/qreg_11_acid.jpeg" />
 
 ## Crush Stress Test
 
 Similar to the original Quadrat Register cylinder, my press was unable to visibly deform this device. No data loss.
 
-<img src="../../img/devices/hodlinox_crush.jpeg" />
+<img src="../../img/devices/qreg_11_crush.jpeg" />
