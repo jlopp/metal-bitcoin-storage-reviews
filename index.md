@@ -348,7 +348,7 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
-    <td>€199</td>
+    <td>€49</td>
   </tr>
   <tr>
     <td><a href="reviews/tjernlund-cc3p/">Tjernlund CC3P</a></td>
