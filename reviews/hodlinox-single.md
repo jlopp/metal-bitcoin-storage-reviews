@@ -4,7 +4,7 @@ title: Hodlinox Single Plate Review
 permalink: /reviews/hodlinox-single/
 nowrap: true
 ---
-Hodlinox Single Plate can be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. Claims to be:
+Hodlinox Single Plate can be no longer be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. Claims to be:
 <ul>
 	<li>Waterproof</li>
 	<li>Fireproof</li>

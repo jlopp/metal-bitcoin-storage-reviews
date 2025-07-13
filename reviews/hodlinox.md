@@ -4,7 +4,7 @@ title: Hodlinox Review
 permalink: /reviews/hodlinox/
 nowrap: true
 ---
-Hodlinox can be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. Claims to be:
+Hodlinox can no longer be purchased at <a href="https://hodlinox.com/">hodlinox.com</a>. Claims to be:
 <ul>
 	<li>Waterproof</li>
 	<li>Fireproof</li>
