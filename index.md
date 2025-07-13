@@ -10,7 +10,7 @@ use-site-title: true
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="how">Stress Test Methodology</a>
     <br/>
-    <p>Note: after testing 70 devices, I probably won't be testing many more - nearly every device these days is a similar design to some that have already been tested. If you want to have a good idea of how well an untested device will perform, read my <a href="https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/">Treatise on Bitcoin Seed Backup Device Design</a>.</p>
+    <p>Note: after testing 75 devices, won't be testing many more - nearly every device these days is a similar design to some that have already been tested. If you want to have a good idea of how well an untested device will perform, read my <a href="https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/">Treatise on Bitcoin Seed Backup Device Design</a>.</p>
     You may also find this <a href="https://docs.google.com/spreadsheets/d/1poBdHCVrd5eErAWySjSBoKh2f_6VCHsy3ForvL8JCRE/edit#gid=197446072">sortable spreadsheet</a> useful.</div>
 <br/>
 <table class="compatibility">
@@ -175,14 +175,6 @@ use-site-title: true
     <td>50 CHF</td>
   </tr>
   <tr>
-    <td><a href="reviews/cryptonumeris-board-s/">CryptoNumeris Board S</a></td>
-    <td style="text-align:center">A-</td>
-    <td style="text-align:center">A</td>
-    <td style="text-align:center">B</td>
-    <td style="text-align:center">A</td>
-    <td>$32</td>
-  </tr>
-  <tr>
     <td><a href="reviews/cryptonumeris-plate-s/">CryptoNumeris Plate S</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -255,6 +247,14 @@ use-site-title: true
     <td>$74</td>
   </tr>
   <tr>
+    <td><a href="reviews/ngrave-graphene/">NGRAVE GRAPHENE</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$148</td>
+  </tr>
+  <tr>
     <td><a href="reviews/qreg-hr/">qreg-hr</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -293,6 +293,14 @@ use-site-title: true
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
     <td>$49</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/seedfan/">Seedfan</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>€80</td>
   </tr>
   <tr>
     <td><a href="reviews/seedsteel/">SeedSteel</a></td>
@@ -359,6 +367,14 @@ use-site-title: true
     <td>$40</td>
   </tr>
   <tr>
+    <td><a href="reviews/vaultki/">VaultKi</a></td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">A</td>
+    <td>$100</td>
+  </tr>
+  <tr>
     <td><a href="reviews/willi-recovery-seed-plate/">Willi's Recovery Seed Plate</a></td>
     <td style="text-align:center">A</td>
     <td style="text-align:center">A</td>
@@ -389,6 +405,14 @@ use-site-title: true
     <td style="text-align:center">B</td>
     <td style="text-align:center">A</td>
     <td>$15</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/cryptonumeris-board-s/">CryptoNumeris Board S</a></td>
+    <td style="text-align:center">A-</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">B</td>
+    <td style="text-align:center">A</td>
+    <td>$32</td>
   </tr>
   <tr>
     <td><a href="reviews/cryptosteel-capsule/">Cryptosteel Capsule</a></td>
@@ -541,6 +565,14 @@ use-site-title: true
     <td style="text-align:center">F</td>
     <td style="text-align:center">-</td>
     <td>N/A</td>
+  </tr>
+  <tr>
+    <td><a href="reviews/morse/">The Morse</a></td>
+    <td style="text-align:center">D</td>
+    <td style="text-align:center">F</td>
+    <td style="text-align:center">A</td>
+    <td style="text-align:center">F</td>
+    <td>???</td>
   </tr>
   <tr>
     <td><a href="reviews/steely/">The Steely</a></td>

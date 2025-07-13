@@ -6,7 +6,7 @@ nowrap: true
 ---
 Cryptotag Odin can be purchased at <a href="https://cryptotag.io/">cryptotag.io</a>. Claims to be:
 <ul>
-	<li>Fireproof up to 1665°C / 3029 °F</li>
+	<li>Fireproof up to 1665°C / 3029°F</li>
 	<li>Waterproof</li>
 </ul>
 
